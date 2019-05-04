@@ -20,3 +20,8 @@ However, the explanation for the code will only be in the first notebook. <br>
 <br>
 Apart from that there is some folders for datasets, which are used as examples,
 and images which contain jpegs used in the notebooks.
+
+### Notebooks not showing in guthub?
+Go to: https://nbviewer.jupyter.org/
+and paste in the github url to the notebook like: https://github.com/VincentPe/Algorithms_from_scratch/blob/master/03%20Multiple%20Linear%20Regression.ipynb
+Gives a better view of the document as well.
