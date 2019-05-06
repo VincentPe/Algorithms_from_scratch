@@ -7,6 +7,17 @@ or work problems, I sometimes did not understand why exactly one performed bette
 I have combined resources from different tutorials in a way that I myself understand them,
 but perhaps they might be useful to other people too. <br>
 
+## Algorithms done and to do
+Starting of simple and increasing complexity. <br>
+Done: Simple Linear Regression <br>
+Done: Multiple Linear Regression <br>
+Done: Logistic regression <br>
+Done: Decision Tree <br>
+Done: Random Forest <br>
+Doing: XGBoost <br>
+Doing: Alternating Least Squares <br>
+To do: Neural Network <br>
+
 ## Additional info
 As mentioned earlier, I have gathered information from multiple websites per algo. <br>
 I have tried to keep track of resources and stated them in the notebooks, but might have missed some
